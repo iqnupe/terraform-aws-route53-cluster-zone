@@ -1,0 +1,4 @@
+version: 0.16.1
+tag: 0.16.1
+source: cloudposse/terraform-aws-route53-cluster-zone
+registry: https://registry.terraform.io/modules/cloudposse/route53-cluster-zone/aws/0.16.1
